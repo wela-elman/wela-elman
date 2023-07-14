@@ -2,7 +2,7 @@
 
 Your DevOps Engineer
 #
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gitlab,github,linux,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gitlab,github,linux,gcp,aws,svelte,react,mysql,py)](https://skillicons.dev)
 
 
 <!--
